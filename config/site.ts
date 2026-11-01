@@ -77,7 +77,7 @@ export const siteConfig: SiteConfig = {
     measurementId: "G-DWVMBXMF1L"
   },
   ads: {
-    enabled: false,
+    enabled: true,
     previewPlaceholders: false,
     desktopChrome: {
       enabled: true
@@ -85,8 +85,8 @@ export const siteConfig: SiteConfig = {
     placements: {
       "top-sticky": false,
       "left-sticky": true,
-      "home-banner": false,
-      "article-banner": false,
+      "home-banner": true,
+      "article-banner": true,
       "sidebar-square": false
     }
   },

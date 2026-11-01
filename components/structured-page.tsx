@@ -85,7 +85,7 @@ function Support({ page, layout, locale }: Props) {
   const remainder = page.sections.filter(section => !used.has(section.id));
   if (!remainder.length) return null;
   return <SupportingGuidance expandLabel={label("expandBackground", locale)} countLabel={label("sectionsCount", locale)} title={text(layout.supportTitle, locale)} entries={remainder.map(section => ({ id: section.id, title: text(section.title, locale) }))}>
-    {remainder.map(section => <Section key={section.id} page={page} section={section} locale={locale} />)}
+    {remainder.map((section, index) => <Fragment key={section.id}><Section page={page} section={section} locale={locale} />{index + 1 === Math.max(1, Math.ceil(remainder.length / 2)) && <ArticleAd page={page} />}</Fragment>)}
   </SupportingGuidance>;
 }
 
