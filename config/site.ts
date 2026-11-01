@@ -7,7 +7,7 @@ export const siteConfig: SiteConfig = {
     en: "Train on anvils, break through floors and turn rare rocks into materials with your cutting machines."
   },
   siteUrl: "https://www.cutarock.wiki",
-  searchVisibility: "preview",
+  searchVisibility: "public",
   architecture: {
     enabled: true,
     templates: [
@@ -78,7 +78,7 @@ export const siteConfig: SiteConfig = {
   },
   ads: {
     enabled: false,
-    previewPlaceholders: true,
+    previewPlaceholders: false,
     desktopChrome: {
       enabled: true
     },
