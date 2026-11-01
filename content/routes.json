@@ -1,0 +1,44 @@
+[
+  {
+    "route": "/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/getting-started/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/rock-cutting-machines/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/pickaxes-pocket-and-eyesight/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/floors-rocks-and-index/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/codes/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/about/",
+    "locales": [
+      "en"
+    ]
+  }
+]

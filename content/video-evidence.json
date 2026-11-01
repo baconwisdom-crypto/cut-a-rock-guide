@@ -1,0 +1,145 @@
+[
+  {
+    "asset": "/images/video-OEyn87PIhbA-400.webp",
+    "sourceId": "video-OEyn87PIhbA",
+    "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=400s",
+    "timecode": "00:06:40",
+    "text_block_id": "start.train",
+    "fact_ids": [
+      "start-train"
+    ],
+    "shot_ids": [
+      "start-train-400"
+    ]
+  },
+  {
+    "asset": "/images/video-OEyn87PIhbA-10.webp",
+    "sourceId": "video-OEyn87PIhbA",
+    "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=10s",
+    "timecode": "00:00:10",
+    "text_block_id": "start.mine",
+    "fact_ids": [
+      "start-mine"
+    ],
+    "shot_ids": [
+      "start-mine-10"
+    ]
+  },
+  {
+    "asset": "/images/video-OEyn87PIhbA-20.webp",
+    "sourceId": "video-OEyn87PIhbA",
+    "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=20s",
+    "timecode": "00:00:20",
+    "text_block_id": "start.cut",
+    "fact_ids": [
+      "start-cut"
+    ],
+    "shot_ids": [
+      "start-cut-20"
+    ]
+  },
+  {
+    "asset": "/images/video-OEyn87PIhbA-40.webp",
+    "sourceId": "video-OEyn87PIhbA",
+    "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=40s",
+    "timecode": "00:00:40",
+    "text_block_id": "start.sell",
+    "fact_ids": [
+      "start-sell"
+    ],
+    "shot_ids": [
+      "start-sell-40"
+    ]
+  },
+  {
+    "asset": "/images/video-OEyn87PIhbA-340.webp",
+    "sourceId": "video-OEyn87PIhbA",
+    "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=340s",
+    "timecode": "00:05:40",
+    "text_block_id": "machines.load",
+    "fact_ids": [
+      "machines-load"
+    ],
+    "shot_ids": [
+      "machines-load-340"
+    ]
+  },
+  {
+    "asset": "/images/video-OEyn87PIhbA-480.webp",
+    "sourceId": "video-OEyn87PIhbA",
+    "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=480s",
+    "timecode": "00:08:00",
+    "text_block_id": "machines.ready",
+    "fact_ids": [
+      "machines-ready"
+    ],
+    "shot_ids": [
+      "machines-ready-480"
+    ]
+  },
+  {
+    "asset": "/images/video-OEyn87PIhbA-320.webp",
+    "sourceId": "video-OEyn87PIhbA",
+    "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=320s",
+    "timecode": "00:05:20",
+    "text_block_id": "machines.upgrade",
+    "fact_ids": [
+      "machines-upgrade"
+    ],
+    "shot_ids": [
+      "machines-upgrade-320"
+    ]
+  },
+  {
+    "asset": "/images/video-OEyn87PIhbA-380.webp",
+    "sourceId": "video-OEyn87PIhbA",
+    "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=380s",
+    "timecode": "00:06:20",
+    "text_block_id": "upgrades.pocket",
+    "fact_ids": [
+      "upgrades-pocket"
+    ],
+    "shot_ids": [
+      "upgrades-pocket-380"
+    ]
+  },
+  {
+    "asset": "/images/video-OEyn87PIhbA-800.webp",
+    "sourceId": "video-OEyn87PIhbA",
+    "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=800s",
+    "timecode": "00:13:20",
+    "text_block_id": "upgrades.pickaxe",
+    "fact_ids": [
+      "upgrades-pickaxe"
+    ],
+    "shot_ids": [
+      "upgrades-pickaxe-800"
+    ]
+  },
+  {
+    "asset": "/images/video-OEyn87PIhbA-80.webp",
+    "sourceId": "video-OEyn87PIhbA",
+    "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=80s",
+    "timecode": "00:01:20",
+    "text_block_id": "floors.panel",
+    "fact_ids": [
+      "floors-panel"
+    ],
+    "shot_ids": [
+      "floors-panel-80"
+    ]
+  },
+  {
+    "asset": "/images/video-OEyn87PIhbA-450.webp",
+    "sourceId": "video-OEyn87PIhbA",
+    "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=450s",
+    "timecode": "00:07:30",
+    "text_block_id": "floors.deeper",
+    "fact_ids": [
+      "floors-deeper"
+    ],
+    "shot_ids": [
+      "floors-deeper-450"
+    ]
+  }
+]

@@ -1,0 +1,1135 @@
+[
+  {
+    "page_id": "home",
+    "route": "/",
+    "section": "Handbook",
+    "title": {
+      "en": "Cut a Rock Wiki: Gameplay and Progression Guides"
+    },
+    "description": {
+      "en": "Train on anvils, break through floors and turn rare rocks into materials with your cutting machines."
+    },
+    "pageType": "Home",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Train on anvils, break through floors and turn rare rocks into materials with your cutting machines."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "Train Power at anvils, break a floor, collect rocks, then return home to cut and sell the materials. If progress slows, choose the guide for your current bottleneck: mining Power, cutter availability or carrying space."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "loop",
+        "title": {
+          "en": "Plan your next session"
+        },
+        "paragraphs": [
+          {
+            "en": "Train on anvils, break through floors and turn rare rocks into materials with your cutting machines."
+          },
+          {
+            "en": "Use Start Here for the complete loop, Machines for processing and the $160K recorded upgrade example, Upgrades for carrying space and Eyesight, or Floors for room-specific rock panels."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "home-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "start",
+      "machines",
+      "upgrades"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Overview"
+      },
+      "order": 0
+    },
+    "primaryAction": {
+      "label": {
+        "en": "Start your first session"
+      },
+      "pageId": "start"
+    }
+  },
+  {
+    "page_id": "start",
+    "route": "/guides/getting-started/",
+    "section": "Handbook",
+    "title": {
+      "en": "Getting Started: Train, Mine, Cut and Sell"
+    },
+    "description": {
+      "en": "Follow the mining loop and recognize the return, cutting and selling controls."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Follow the mining loop and recognize the return, cutting and selling controls."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "The developer identifies anvils as the source of Power. The reviewed recording shows a training hall with progressively stronger stations and a PLAY control when the player stands on a station. Check the station requirement before moving up."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "train",
+        "title": {
+          "en": "1. Build Power at the training area"
+        },
+        "paragraphs": [
+          {
+            "en": "The developer identifies anvils as the source of Power. The reviewed recording shows a training hall with progressively stronger stations and a PLAY control when the player stands on a station. Check the station requirement before moving up."
+          },
+          {
+            "en": "Begin with a station you can use. Watch the Power counter while training, then return to the mine to test the next floor. Some stations display a Robux option alongside progression information; read the purchase prompt before confirming."
+          },
+          {
+            "en": "The reviewed training hall displays 5x, 10x, 15x, 50x, 100x and 200x station labels. Some show Index progress requirements such as 0/15 and a Robux option. These are visible station labels, not a verified table of Power gained per second. Check the book counter and the question or purchase prompt before choosing a station."
+          }
+        ],
+        "imageIds": [
+          "start-train-400"
+        ]
+      },
+      {
+        "id": "mine",
+        "title": {
+          "en": "2. Break a floor and collect a rock"
+        },
+        "paragraphs": [
+          {
+            "en": "Floor panels show a durability bar and the rock types available in that room. Use your equipped pickaxe on the floor and watch the bar decrease. Once the room is accessible, approach a rock and use its interaction prompt."
+          },
+          {
+            "en": "In the recording the PC pickup prompt is E, and the blue bag counter changes when a rock is collected. A full bag limits the next collection trip. Use the current device prompt if it differs from the PC footage."
+          }
+        ],
+        "imageIds": [
+          "start-mine-10"
+        ]
+      },
+      {
+        "id": "cut",
+        "title": {
+          "en": "3. Return home and load a cutting machine"
+        },
+        "paragraphs": [
+          {
+            "en": "Home (Q) appears at the top of the recorded PC interface, beside Spawn (F). At the machine, the prompt changes to Place Rock when it is available. Load a collected rock and let the cutting timer run."
+          },
+          {
+            "en": "A machine that is still cutting shows a countdown. A completed machine shows Ready! with an interaction prompt. Collect its result before trying to start the next cycle."
+          }
+        ],
+        "imageIds": [
+          "start-cut-20"
+        ]
+      },
+      {
+        "id": "sell",
+        "title": {
+          "en": "4. Sell materials and choose the next upgrade"
+        },
+        "paragraphs": [
+          {
+            "en": "The home area has separate PICKAXE, UPGRADE and SELL stalls. The developer confirms that selling finds funds machine upgrades. After collecting a cut result, visit SELL and inspect the current sale options."
+          },
+          {
+            "en": "The reviewed frame locates the stall but does not show every sale-menu choice. Check the item and proceeds before confirming. Use the upgrade guides to choose between faster processing, more carrying space and stronger mining equipment."
+          }
+        ],
+        "imageIds": [
+          "start-sell-40"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "What should I do when my bag is full?"
+        },
+        "answer": {
+          "en": "Return home, load available cutters and collect finished materials. Once space is free, return to mining. Consider Pocket if repeated trips limit your progress."
+        }
+      },
+      {
+        "question": {
+          "en": "Why is a machine not ready for another rock?"
+        },
+        "answer": {
+          "en": "A countdown means it is still cutting. Ready! means its result can be collected. Check the prompt and collect the previous result before loading again."
+        }
+      }
+    ],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "start-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "start-train-400",
+        "src": "/images/video-OEyn87PIhbA-400.webp",
+        "alt": {
+          "en": "1. Build Power at the training area in recorded gameplay"
+        },
+        "caption": {
+          "en": "1. Build Power at the training area 00:06:40"
+        },
+        "ratio": "video",
+        "sourceId": "video-OEyn87PIhbA",
+        "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=400s",
+        "videoId": "OEyn87PIhbA",
+        "timecode": "00:06:40"
+      },
+      {
+        "id": "start-mine-10",
+        "src": "/images/video-OEyn87PIhbA-10.webp",
+        "alt": {
+          "en": "2. Break a floor and collect a rock in recorded gameplay"
+        },
+        "caption": {
+          "en": "2. Break a floor and collect a rock 00:00:10"
+        },
+        "ratio": "video",
+        "sourceId": "video-OEyn87PIhbA",
+        "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=10s",
+        "videoId": "OEyn87PIhbA",
+        "timecode": "00:00:10"
+      },
+      {
+        "id": "start-cut-20",
+        "src": "/images/video-OEyn87PIhbA-20.webp",
+        "alt": {
+          "en": "3. Return home and load a cutting machine in recorded gameplay"
+        },
+        "caption": {
+          "en": "3. Return home and load a cutting machine 00:00:20"
+        },
+        "ratio": "video",
+        "sourceId": "video-OEyn87PIhbA",
+        "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=20s",
+        "videoId": "OEyn87PIhbA",
+        "timecode": "00:00:20"
+      },
+      {
+        "id": "start-sell-40",
+        "src": "/images/video-OEyn87PIhbA-40.webp",
+        "alt": {
+          "en": "4. Sell materials and choose the next upgrade in recorded gameplay"
+        },
+        "caption": {
+          "en": "4. Sell materials and choose the next upgrade 00:00:40"
+        },
+        "ratio": "video",
+        "sourceId": "video-OEyn87PIhbA",
+        "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=40s",
+        "videoId": "OEyn87PIhbA",
+        "timecode": "00:00:40"
+      }
+    ],
+    "relatedPageIds": [
+      "machines",
+      "upgrades",
+      "floors"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Start Here"
+      },
+      "order": 1
+    }
+  },
+  {
+    "page_id": "machines",
+    "route": "/guides/rock-cutting-machines/",
+    "section": "Handbook",
+    "title": {
+      "en": "Rock Cutting Machines: Loading and Upgrading"
+    },
+    "description": {
+      "en": "Keep machines occupied, collect finished materials and read upgrade costs before spending."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Keep machines occupied, collect finished materials and read upgrade costs before spending."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "At home, use Place Rock to load an available machine, wait for Ready!, then collect the materials. Cutting... (Upgrade) identifies an active machine. Keep several machines working while you collect another batch."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "load",
+        "title": {
+          "en": "Recognize an active machine"
+        },
+        "paragraphs": [
+          {
+            "en": "Load a collected rock at a machine displaying Place Rock, as shown in the getting-started guide. Once cutting begins, the prompt changes to Cutting... (Upgrade), with the machine level and a remaining-seconds counter visible. The image below shows this active state."
+          },
+          {
+            "en": "Several machines can run at once. Fill available machines before another collection trip, then return to collect the Ready results. The 26s and 20s in this screenshot are remaining countdowns for this moment, so they cannot establish full processing times or a speed multiplier."
+          }
+        ],
+        "imageIds": [
+          "machines-load-340"
+        ]
+      },
+      {
+        "id": "ready",
+        "title": {
+          "en": "Collect the Ready result"
+        },
+        "paragraphs": [
+          {
+            "en": "Ready! replaces the timer on a finished machine. Use the nearby interaction prompt and check for material notifications. The recording shows different machines finishing at different times."
+          },
+          {
+            "en": "Do not treat the rock rarity as a guarantee of one particular material. The footage establishes the processing interface, but it does not supply a complete material probability table."
+          }
+        ],
+        "imageIds": [
+          "machines-ready-480"
+        ]
+      },
+      {
+        "id": "upgrade",
+        "title": {
+          "en": "Inspect the ROCK CUTTER panel"
+        },
+        "paragraphs": [
+          {
+            "en": "The upgrade panel shows the current machine level, the next level and a cash price. One recorded example displays Level 3 moving to 4 for $160K. That is a dated observation, not a permanent price list."
+          },
+          {
+            "en": "Upgrade the machine you intend to use and recheck its level after purchase. If cash is insufficient, finish and sell another batch. The reviewed panel does not quantify every level’s speed improvement."
+          },
+          {
+            "en": "The panel also displays Uncommon, Rare and Elite rock icons at Level 3. Treat these as visible interface entries. A complete eligibility ladder and the next level’s accepted rocks require additional footage. The $160K example is a cash upgrade, and the screenshot does not establish a speed percentage."
+          }
+        ],
+        "imageIds": [
+          "machines-upgrade-320"
+        ]
+      },
+      {
+        "id": "offline",
+        "title": {
+          "en": "What continues while you are away"
+        },
+        "paragraphs": [
+          {
+            "en": "The official description says players gain Power offline and machines keep cutting while they are away. This supports preparing a batch before leaving."
+          },
+          {
+            "en": "The current offline cap, storage limit and exact payout formula are unverified. On return, inspect the available results and the game’s own offline summary before estimating an hourly return."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "machines-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "machines-load-340",
+        "src": "/images/video-OEyn87PIhbA-340.webp",
+        "alt": {
+          "en": "Load an idle machine in recorded gameplay"
+        },
+        "caption": {
+          "en": "Load an idle machine 00:05:40"
+        },
+        "ratio": "video",
+        "sourceId": "video-OEyn87PIhbA",
+        "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=340s",
+        "videoId": "OEyn87PIhbA",
+        "timecode": "00:05:40"
+      },
+      {
+        "id": "machines-ready-480",
+        "src": "/images/video-OEyn87PIhbA-480.webp",
+        "alt": {
+          "en": "Collect the Ready result in recorded gameplay"
+        },
+        "caption": {
+          "en": "Collect the Ready result 00:08:00"
+        },
+        "ratio": "video",
+        "sourceId": "video-OEyn87PIhbA",
+        "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=480s",
+        "videoId": "OEyn87PIhbA",
+        "timecode": "00:08:00"
+      },
+      {
+        "id": "machines-upgrade-320",
+        "src": "/images/video-OEyn87PIhbA-320.webp",
+        "alt": {
+          "en": "Inspect the ROCK CUTTER panel in recorded gameplay"
+        },
+        "caption": {
+          "en": "Inspect the ROCK CUTTER panel 00:05:20"
+        },
+        "ratio": "video",
+        "sourceId": "video-OEyn87PIhbA",
+        "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=320s",
+        "videoId": "OEyn87PIhbA",
+        "timecode": "00:05:20"
+      }
+    ],
+    "relatedPageIds": [
+      "start",
+      "upgrades",
+      "floors"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Rock Cutting Machines"
+      },
+      "order": 2
+    }
+  },
+  {
+    "page_id": "upgrades",
+    "route": "/guides/pickaxes-pocket-and-eyesight/",
+    "section": "Handbook",
+    "title": {
+      "en": "Pickaxes, Pocket and Eyesight Upgrades"
+    },
+    "description": {
+      "en": "Choose an upgrade according to the part of the mining loop that slows you down."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Choose an upgrade according to the part of the mining loop that slows you down."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "The UPGRADE stall contains Pocket and Eyesight cards. Pocket explicitly advertises +1 slot in the reviewed panel. The bag counter visible in the recording later changes from a three-slot maximum to four."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "pocket",
+        "title": {
+          "en": "Pocket adds carrying space"
+        },
+        "paragraphs": [
+          {
+            "en": "The UPGRADE stall contains Pocket and Eyesight cards. Pocket explicitly advertises +1 slot in the reviewed panel. The bag counter visible in the recording later changes from a three-slot maximum to four."
+          },
+          {
+            "en": "Choose carrying space when repeated trips interrupt collection while machines remain available. Check the current cost on the Pocket card, buy once and verify the new bag maximum."
+          },
+          {
+            "en": "In the recorded panel, Pocket is labelled LEVEL 4, +1 slot and $1M. The screenshot does not establish whether LEVEL 4 names the current or offered level, so compare your bag counter before and after purchase. This price is a recorded example and can change."
+          }
+        ],
+        "imageIds": [
+          "upgrades-pocket-380"
+        ]
+      },
+      {
+        "id": "eyesight",
+        "title": {
+          "en": "Eyesight needs a careful read"
+        },
+        "paragraphs": [
+          {
+            "en": "The same panel labels the second upgrade Eyesight and advertises +1 sight. The recording does not establish its exact range, reveal rules or effect on rare-rock chances."
+          },
+          {
+            "en": "Read the current in-game explanation before spending on it. No verified evidence supports claiming that Eyesight increases luck or changes the displayed room probabilities."
+          },
+          {
+            "en": "The same recorded panel labels Eyesight LEVEL 4, +1 sight and $340K. Its help button is visible, but the explanation is closed. This supports the upgrade name and displayed price only. Its exact visibility distance and interaction with the Index remain unknown."
+          }
+        ]
+      },
+      {
+        "id": "pickaxe",
+        "title": {
+          "en": "Compare pickaxes after checking Power"
+        },
+        "paragraphs": [
+          {
+            "en": "The developer says stronger pickaxes help reach deeper floors. A dedicated PICKAXE stall is visible beside the other home shops, and later footage shows a different equipped pickaxe."
+          },
+          {
+            "en": "When a floor takes too long, compare the next pickaxe with the tool you own, and inspect its price and requirements. A complete current stat ladder is unavailable, so this guide does not rank every pickaxe."
+          }
+        ],
+        "imageIds": [
+          "upgrades-pickaxe-800"
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "upgrades-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "upgrades-pocket-380",
+        "src": "/images/video-OEyn87PIhbA-380.webp",
+        "alt": {
+          "en": "Pocket adds carrying space in recorded gameplay"
+        },
+        "caption": {
+          "en": "Pocket adds carrying space 00:06:20"
+        },
+        "ratio": "video",
+        "sourceId": "video-OEyn87PIhbA",
+        "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=380s",
+        "videoId": "OEyn87PIhbA",
+        "timecode": "00:06:20"
+      },
+      {
+        "id": "upgrades-pickaxe-800",
+        "src": "/images/video-OEyn87PIhbA-800.webp",
+        "alt": {
+          "en": "Compare pickaxes after checking Power in recorded gameplay"
+        },
+        "caption": {
+          "en": "Compare pickaxes after checking Power 00:13:20"
+        },
+        "ratio": "video",
+        "sourceId": "video-OEyn87PIhbA",
+        "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=800s",
+        "videoId": "OEyn87PIhbA",
+        "timecode": "00:13:20"
+      }
+    ],
+    "relatedPageIds": [
+      "start",
+      "machines",
+      "floors"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Pickaxes, Pocket and Eyesight Upgrades"
+      },
+      "order": 3
+    }
+  },
+  {
+    "page_id": "floors",
+    "route": "/guides/floors-rocks-and-index/",
+    "section": "Handbook",
+    "title": {
+      "en": "Floors, Rock Rarity and the Index"
+    },
+    "description": {
+      "en": "Read the room panel before farming a rarity and keep collection rewards separate from drop odds."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Read the room panel before farming a rarity and keep collection rewards separate from drop odds."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "Each reviewed floor panel lists its possible rock types and percentages below the durability bar. Room 5 shows Uncommon, Rare, Elite and Nova Prism entries. Other rooms show different distributions."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "panel",
+        "title": {
+          "en": "Read the room-specific rock panel"
+        },
+        "paragraphs": [
+          {
+            "en": "Each reviewed floor panel lists its possible rock types and percentages below the durability bar. Room 5 shows Uncommon, Rare, Elite and Nova Prism entries. Other rooms show different distributions."
+          },
+          {
+            "en": "Use the panel for the room you are actually farming. Do not apply one screenshot’s percentages to every floor or multiply them into a material drop chance. Rock availability and the material obtained by cutting are separate stages."
+          },
+          {
+            "en": "These are the percentages printed in the reviewed room panels. They total 100.1%, so do not normalize them or assume a verified random-roll formula. The footage does not settle rounding or whether Nova Prism uses a separate roll. The table describes rock availability in those rooms, not the materials produced by a cutter."
+          }
+        ],
+        "imageIds": [
+          "floors-panel-80"
+        ],
+        "table": {
+          "columns": [
+            {
+              "en": "Room"
+            },
+            {
+              "en": "Displayed rock entries"
+            },
+            {
+              "en": "Scope"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "en": "5"
+              },
+              {
+                "en": "Uncommon 35%; Rare 50%; Elite 15%; Nova Prism 0.1%"
+              },
+              {
+                "en": "Recorded room panel"
+              }
+            ],
+            [
+              {
+                "en": "7"
+              },
+              {
+                "en": "Rare 35%; Elite 50%; Epic 15%; Nova Prism 0.1%"
+              },
+              {
+                "en": "Recorded room panel; Rare label partially obscured"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "id": "deeper",
+        "title": {
+          "en": "Balance depth with collection time"
+        },
+        "paragraphs": [
+          {
+            "en": "Deeper panels in the recording have substantially larger durability totals and different rock selections. The best practical target is a room you can break and refill from reliably with your current equipment."
+          },
+          {
+            "en": "If progress stalls at a floor, return to Power training, inspect pickaxe requirements and keep existing machines working. The exact best room depends on current equipment and the material you want."
+          },
+          {
+            "en": "Room 5 displays a total floor durability of 6.41M in the reviewed frame. Room 7 shows a much larger bar, but the player obscures part of its total, so no exact Room 7 durability is transcribed. Compare the visible bar with your actual damage and collection turnaround before committing to a deeper room."
+          }
+        ],
+        "imageIds": [
+          "floors-deeper-450"
+        ]
+      },
+      {
+        "id": "index",
+        "title": {
+          "en": "Check Index rewards as your collection grows"
+        },
+        "paragraphs": [
+          {
+            "en": "The official description links Index completion with aura unlocks. An INDEX button is visible on the left of the gameplay interface. Open it to inspect the entries and requirements currently available to your account."
+          },
+          {
+            "en": "The reviewed frames do not show the full Index or aura effects. Exact completion thresholds, stacking rules and a best-aura ranking remain unverified."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": {
+          "en": "Does Eyesight improve Nova Prism odds?"
+        },
+        "answer": {
+          "en": "The reviewed footage does not establish that effect. Eyesight advertises +1 sight, while room panels list rock percentages. Its exact function still needs the open help panel or a developer explanation."
+        }
+      }
+    ],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "floors-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "floors-panel-80",
+        "src": "/images/video-OEyn87PIhbA-80.webp",
+        "alt": {
+          "en": "Read the room-specific rock panel in recorded gameplay"
+        },
+        "caption": {
+          "en": "Read the room-specific rock panel 00:01:20"
+        },
+        "ratio": "video",
+        "sourceId": "video-OEyn87PIhbA",
+        "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=80s",
+        "videoId": "OEyn87PIhbA",
+        "timecode": "00:01:20"
+      },
+      {
+        "id": "floors-deeper-450",
+        "src": "/images/video-OEyn87PIhbA-450.webp",
+        "alt": {
+          "en": "Balance depth with collection time in recorded gameplay"
+        },
+        "caption": {
+          "en": "Balance depth with collection time 00:07:30"
+        },
+        "ratio": "video",
+        "sourceId": "video-OEyn87PIhbA",
+        "sourceUrl": "https://www.youtube.com/watch?v=OEyn87PIhbA&t=450s",
+        "videoId": "OEyn87PIhbA",
+        "timecode": "00:07:30"
+      }
+    ],
+    "relatedPageIds": [
+      "start",
+      "machines",
+      "upgrades"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Floors, Rock Rarity and the Index"
+      },
+      "order": 4
+    }
+  },
+  {
+    "page_id": "codes",
+    "route": "/codes/",
+    "section": "Handbook",
+    "title": {
+      "en": "Cut a Rock Codes: Current Verification Status"
+    },
+    "description": {
+      "en": "What the official description currently lists, and what remains unconfirmed."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "What the official description currently lists, and what remains unconfirmed."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "The official Roblox description checked November 1, 2026 contains no redeemable codes. That observation does not prove that a code system is absent from the game."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "status",
+        "title": {
+          "en": "No codes in the checked official description"
+        },
+        "paragraphs": [
+          {
+            "en": "The official Roblox description checked November 1, 2026 contains no redeemable codes. That observation does not prove that a code system is absent from the game."
+          },
+          {
+            "en": "No code has been redeemed by this site. We have not verified a complete code-entry interface, a current reward amount or an expiry date. Avoid copying codes from similarly named games."
+          }
+        ]
+      },
+      {
+        "id": "check",
+        "title": {
+          "en": "Where to check for an update"
+        },
+        "paragraphs": [
+          {
+            "en": "Use the exact Roblox game and developer community linked at the bottom of this page. A future code listing should include its spelling, stated reward and publication date."
+          },
+          {
+            "en": "If the game presents a redemption control, read its current instructions and record the actual response. This page will distinguish developer-listed codes from personally tested redemption results."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "codes-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "start",
+      "machines",
+      "upgrades"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Codes"
+      },
+      "order": 5
+    }
+  },
+  {
+    "page_id": "about",
+    "route": "/about/",
+    "section": "Handbook",
+    "title": {
+      "en": "About This Cut a Rock Guide"
+    },
+    "description": {
+      "en": "Game identity, evidence scope and site privacy."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Game identity, evidence scope and site privacy."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "This independent fan guide covers Cut a Rock by Duality Works. Universe ID: 10766468833. Root Place ID: 113742027864370. These identifiers were checked against Roblox’s official API on November 1, 2026."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "identity",
+        "title": {
+          "en": "The game covered here"
+        },
+        "paragraphs": [
+          {
+            "en": "This independent fan guide covers Cut a Rock by Duality Works. Universe ID: 10766468833. Root Place ID: 113742027864370. These identifiers were checked against Roblox’s official API on November 1, 2026."
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "title": {
+          "en": "How the material is checked"
+        },
+        "paragraphs": [
+          {
+            "en": "Official descriptions establish the advertised game systems. Reviewed community footage supplies the visible controls and screenshots. Unsupported prices, probabilities and unlock requirements remain marked as unknown."
+          },
+          {
+            "en": "This site has no player account or comment form. Advertising and analytics status will be updated when those services are actually enabled. Use the official developer community for account or purchase support."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "about-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "start",
+      "machines",
+      "upgrades"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "About"
+      },
+      "order": 6
+    }
+  }
+]

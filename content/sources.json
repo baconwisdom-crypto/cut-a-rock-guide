@@ -1,0 +1,41 @@
+[
+  {
+    "id": "official-game",
+    "name": "Cut a Rock on Roblox",
+    "publisher": "Duality Works",
+    "type": "Official game description",
+    "url": "https://www.roblox.com/games/113742027864370",
+    "lastChecked": "2026-11-01",
+    "status": "Official",
+    "publicUse": "official-first-party",
+    "note": {
+      "en": "Exact game identity and current advertised features."
+    }
+  },
+  {
+    "id": "official-community",
+    "name": "Duality Works community",
+    "publisher": "Duality Works",
+    "type": "Official community",
+    "url": "https://www.roblox.com/communities/122026092",
+    "lastChecked": "2026-11-01",
+    "status": "Official",
+    "publicUse": "official-first-party",
+    "note": {
+      "en": "Developer community resolved from the official game API."
+    }
+  },
+  {
+    "id": "video-OEyn87PIhbA",
+    "name": "Reviewed Cut a Rock gameplay",
+    "publisher": "Community video creator",
+    "type": "Community gameplay",
+    "url": "https://www.youtube.com/watch?v=OEyn87PIhbA",
+    "lastChecked": "2026-11-01",
+    "status": "Reviewed frames",
+    "publicUse": "internal-only",
+    "note": {
+      "en": "Screen-visible observations; no personal playtesting claim."
+    }
+  }
+]
