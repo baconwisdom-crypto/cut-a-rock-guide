@@ -113,7 +113,7 @@ function LandingTemplate(props: Props) {
 }
 
 function HubTemplate(props: Props) {
-  return <><Heading {...props} /><section aria-labelledby="browse-topics"><h2 id="browse-topics">{label("browseTopics", props.locale)}</h2><TopicGroups layout={props.layout} locale={props.locale} /></section><Answer page={props.page} locale={props.locale} /><EndMatter {...props} /></>;
+  return <><Heading {...props} />{(props.layout.groupIds.length > 0 || props.layout.destinations.length > 0) && <section aria-labelledby="browse-topics"><h2 id="browse-topics">{label("browseTopics", props.locale)}</h2>{props.layout.groupIds.length > 0 ? <TopicGroups layout={props.layout} locale={props.locale} /> : <nav className="arch-task-grid" aria-label={label("browseTopics", props.locale)}>{props.layout.destinations.map(item => <Destination key={item.pageId} item={item} locale={props.locale} />)}</nav>}</section>}<Answer page={props.page} locale={props.locale} /><EndMatter {...props} /></>;
 }
 
 function CatalogTemplate(props: Props) {
